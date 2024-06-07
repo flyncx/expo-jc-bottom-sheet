@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "expo-jc-bottom-sheet": ["../src/index"],
+      "expo-jc-bottom-sheet/*": ["../src/*"]
+    }
+  }
+}

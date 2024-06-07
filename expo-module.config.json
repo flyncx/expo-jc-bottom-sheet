@@ -1,0 +1,9 @@
+{
+  "platforms": ["android"],
+  "ios": {
+    "modules": ["ExpoJcBottomSheetModule"]
+  },
+  "android": {
+    "modules": ["com.fahmihidayat.expojcbottomsheet.ExpoJcBottomSheetModule"]
+  }
+}
